@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -71,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # react-api
 React and Python API
 >>>>>>> 93f6bee47f55adc7a9b7f4e1f214c5d3f9a96a85
+=======
+# react-api
+Flask and ReactJs
+>>>>>>> 75c6399c1158d6787e8b787639047e509ba68d65
